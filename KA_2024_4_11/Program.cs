@@ -10,6 +10,9 @@ namespace KA_2024_4_11
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hello");
+            Console.WriteLine("Világ");
         }
     }
 }
